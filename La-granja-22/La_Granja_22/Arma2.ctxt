@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Arma2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Arma2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dir
+comment1.target=Arma2(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ direccion()
+comment3.text=Metodo\ para\ cambiar\ la\ direcion\ de\ la\ arma\ e\ imagen
+numComments=4

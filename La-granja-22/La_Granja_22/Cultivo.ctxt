@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Cultivo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Maiz\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nivel
+comment1.target=Cultivo(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Maiz\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ vida()
+comment3.text=\r\n\ Este\ metodo\ le\ quita\ vida\ al\ cultivo\ si\ un\ bicho\ se\ lo\ esta\ comiendo\r\n
+comment4.params=
+comment4.target=void\ muerte1()
+comment4.text=\r\n\ Este\ metodo\ elimina\ el\ cultivo\ si\ ya\ se\ quedo\ sin\ vida\r\n
+comment5.params=
+comment5.target=void\ muerte2()
+comment5.text=\r\n\ Este\ metodo\ elimina\ el\ cultivo\ si\ ya\ se\ quedo\ sin\ vida\r\n
+comment6.params=
+comment6.target=void\ muerte3()
+comment6.text=\r\n\ Este\ metodo\ elimina\ el\ cultivo\ si\ ya\ se\ quedo\ sin\ vida\r\n
+comment7.params=
+comment7.target=int\ getVida()
+comment7.text=metodo\ para\ devolver\ vidas\ del\ cultivo
+numComments=8
